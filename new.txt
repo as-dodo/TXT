@@ -1,0 +1,4 @@
+FIO: Dotsenko Anastasia Sergeevna
+Age: 32
+Pets: 1
+Salary: 100

@@ -1,0 +1,5 @@
+Skills:
+	GIT
+	Terminal
+	JS
+	Postman

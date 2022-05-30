@@ -1,1 +1,8 @@
-
+  ID: A01
+  Severity: Major
+  Priority: High
+  Title: Pushing the button buy a ticket
+  Step 1: Open the main page of the website blalala.rrr
+  Step 2: Click the button Buy a ticket
+  Actual result: Opening of the page with info about the exhibition
+  Expected result: Opening of the page with choosing a date and time of the exhibition to visit
